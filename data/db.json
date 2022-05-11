@@ -1,0 +1,96 @@
+{
+  "orgs": [
+    {
+      "id": 1,
+      "name": "Loud",
+      "players": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "name": "FunPlus Phoenix",
+      "players": [6, 7, 8, 9, 10]
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Sacy",
+      "config": {},
+      "twitter": "twitter.com/Sacy",
+      "twitch": "twitch.tv/Sacy",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 2,
+      "name": "Saadhak",
+      "config": {},
+      "twitter": "twitter.com/Saadhak",
+      "twitch": "twitch.tv/Saadhak",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 3,
+      "name": "Aspas",
+      "config": {},
+      "twitter": "twitter.com/Aspas",
+      "twitch": "twitch.tv/Aspas",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 4,
+      "name": "Less",
+      "config": {},
+      "twitter": "twitter.com/Less",
+      "twitch": "twitch.tv/Less",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 5,
+      "name": "Pancada",
+      "config": {},
+      "twitter": "twitter.com/Pancada",
+      "twitch": "twitch.tv/Pancada",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 6,
+      "name": "Zyppan",
+      "config": {},
+      "twitter": "twitter.com/Zyppan",
+      "twitch": "twitch.tv/Zyppan",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 7,
+      "name": "Shao",
+      "config": {},
+      "twitter": "twitter.com/Shao",
+      "twitch": "twitch.tv/Shao",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 8,
+      "name": "SUYGETSU",
+      "config": {},
+      "twitter": "twitter.com/SUYGETSU",
+      "twitch": "twitch.tv/SUYGETSU",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 9,
+      "name": "baddyG",
+      "config": {},
+      "twitter": "twitter.com/baddyG",
+      "twitch": "twitch.tv/baddyG",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    },
+    {
+      "id": 10,
+      "name": "ANGE1",
+      "config": {},
+      "twitter": "twitter.com/ANGE1",
+      "twitch": "twitch.tv/ANGE1",
+      "img": "https://www.vlr.gg/img/base/ph/sil.png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60px;
+  background: #181818;
+  border-bottom: 2px solid #bcc2cb;
+}
+
+a {
+  text-decoration: none;
+  color: #bcc2cb;
+  border: 2px solid #181818;
+  padding: 5px 10px;
+  border-radius: 42px;
+}
